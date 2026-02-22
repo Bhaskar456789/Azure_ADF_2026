@@ -1,0 +1,7 @@
+{
+	"name": "bhaskarSHIR",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "SHIR for onprem files"
+	}
+}

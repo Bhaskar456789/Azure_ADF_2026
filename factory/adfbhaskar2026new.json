@@ -1,0 +1,9 @@
+{
+	"name": "adfbhaskar2026new",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "117ecc88-5b2f-4048-8147-57b995334ab7",
+		"tenantId": "a3ce6863-2750-4f3c-86a7-b4d2fc986dad"
+	}
+}
