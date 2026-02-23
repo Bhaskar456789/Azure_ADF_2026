@@ -14,6 +14,9 @@
 		"ls_onprem_file_password": {
 			"value": ""
 		},
+		"AzureKeyVaultSecret_properties_typeProperties_baseUrl": {
+			"value": "https://adfkeyvault2026.vault.azure.net/secrets/admin2026/ee5b93ed3cd74cb2b463946e7c150d55"
+		},
 		"ls_azuresql_properties_typeProperties_server": {
 			"value": "adfproject-server.database.windows.net"
 		},
